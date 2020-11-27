@@ -15,7 +15,8 @@ This book covers the following exciting features:
 * Prepare and encode data appropriately to feed it into the network
 * Build and train a classic feedforward network
 * Develop and optimize an autoencoder network for outlier detection
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/	1800566611) today!
+
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800566611) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -49,7 +50,7 @@ downloads/9781800566613_ColorImages.pdf).
 ### Related products <Other books you may enjoy>
 * Hands-On Mathematics for Deep Learning [[Packt]](https://www.packtpub.com/product/hands-on-mathematics-for-deep-learning/9781838647292) [[Amazon]](https://www.amazon.com/dp/1838647295)
 
-* Applied Deep Learning and Computer Vision for Self-Driving Cars [[Packt]](https://www.packtpub.com/product/applied-deep-learning-and-computer-vision-for-self-driving-cars/9781838646301) [[Amazon]](https://www.amazon.com/dp/1838646302
+* Applied Deep Learning and Computer Vision for Self-Driving Cars [[Packt]](https://www.packtpub.com/product/applied-deep-learning-and-computer-vision-for-self-driving-cars/9781838646301) [[Amazon]](https://www.amazon.com/dp/1838646302)
 
 ## Get to Know the Authors
 **Kathrin Melcher**
