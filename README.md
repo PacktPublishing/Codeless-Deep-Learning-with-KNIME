@@ -33,7 +33,7 @@ replace(upperCase($Gender$), "M", "Male")
 **Following is what you need for this book:**
 This book is for data analysts, data scientists, and deep learning developers who are not well-versed in Python but want to learn how to use KNIME GUI to build, train, test, and deploy neural networks with different architectures. The practical implementations shown in the book do not require coding or any knowledge of dedicated scripts, so you can easily implement your knowledge into practical applications. No prior experience of using KNIME is required to get started with this book.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-11).
 
 ### Software and Hardware List
 
@@ -44,8 +44,7 @@ With the following software and hardware list you can run all code files present
 
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/
-downloads/9781800566613_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781800566613_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
 * Hands-On Mathematics for Deep Learning [[Packt]](https://www.packtpub.com/product/hands-on-mathematics-for-deep-learning/9781838647292) [[Amazon]](https://www.amazon.com/dp/1838647295)
