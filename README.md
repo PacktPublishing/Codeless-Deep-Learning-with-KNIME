@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781800566613)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Codeless Deep Learning with KNIME
 
 <a href="https://www.packtpub.com/product/codeless-deep-learning-with-knime/9781800566613"><img src="https://static.packt-cdn.com/products/9781800566613/cover/smaller" alt=" Codeless Deep Learning with KNIME" height="256px" align="right"></a>
